@@ -1,7 +1,8 @@
-###E-commerce Backend System using Django REST Framework and JWT Authentication
-```
+# E-commerce Backend System using Django REST Framework and JWT Authentication
+
+
 This project is a beginner-friendly Django REST API e-commerce system that uses JWT authentication to manage admin and customer roles, allowing customers to register, log in, and place nested product orders while admins manage products and orders entirely through APIs without using the Django admin panel.
-```
+
 
 
 
